@@ -38,7 +38,7 @@ tweet_prompt = PromptTemplate(input_variables = ["number", "topic", "context", "
 # Create LLM Chain using Prompt Template and Model
 tweet_chain = tweet_prompt | gemini_model
 
-st.set_page_config(page_title="TWEET FORGE by FEARLESS", layout="centered")
+st.set_page_config(page_title="TWEET FORGE - Redlytics Ltd", layout="centered")
 
 st.markdown(
     """
