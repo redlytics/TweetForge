@@ -54,7 +54,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-#st.header("TWEETFORGE by FEARLESS")
+#st.header("TWEETFORGE by REDLYTICS")
 
 st.markdown("""
     <style>
@@ -85,8 +85,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Custom styled subheader
-st.markdown('<div class="custom-subheader">by FEARLESS</div>', unsafe_allow_html=True)
-#st.subheader("by FEARLESS")
+st.markdown('<div class="custom-subheader">by REDLYTICS</div>', unsafe_allow_html=True)
+#st.subheader("by REDLYTICS")
 
 st.markdown("""
     <style>
