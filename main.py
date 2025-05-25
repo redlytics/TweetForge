@@ -70,7 +70,7 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
-'''
+
 
 # Custom styled header
 st.markdown('<div class="custom-header">TWEET FORGE</div>', unsafe_allow_html=True)
