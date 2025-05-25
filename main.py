@@ -40,22 +40,6 @@ tweet_chain = tweet_prompt | gemini_model
 
 st.set_page_config(page_title="TWEET FORGE - Redlytics Ltd", layout="centered")
 
-'''
-st.markdown(
-    """
-    <style>
-    .stApp {
-        background-image: url('https://wallpapercave.com/wp/wp2628993.jpg');
-        background-size: cover;
-        background-repeat: repeat;
-        background-attachment: fixed;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-'''
-
 #st.header("TWEETFORGE by REDLYTICS")
 
 st.markdown("""
