@@ -40,7 +40,7 @@ tweet_chain = tweet_prompt | gemini_model
 
 st.set_page_config(page_title="TWEET FORGE - Redlytics Ltd", layout="centered")
 
-st.markdown(
+###st.markdown(
     """
     <style>
     .stApp {
@@ -53,7 +53,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
+'''
 #st.header("TWEETFORGE by REDLYTICS")
 
 st.markdown("""
@@ -68,6 +68,7 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+'''
 
 # Custom styled header
 st.markdown('<div class="custom-header">TWEET FORGE</div>', unsafe_allow_html=True)
