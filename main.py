@@ -8,7 +8,7 @@ import streamlit as st
 import os
 import base64
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyApdVSUZyVKrIZQY1is3meRX6fyzd2KFFI"
+os.environ['GOOGLE_API_KEY'] = "AIzaSyCtFYAdtR0s-5AzQX_ypQbW-mminqH_PKM"
 
 # Initialize Google's Gemini Model
 
